@@ -31,7 +31,7 @@
                 <mxCell id="38" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.56;exitY=1.011;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="34" target="2" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="79" style="edgeStyle=none;html=1;" edge="1" parent="1" source="6" target="68">
+                <mxCell id="79" style="edgeStyle=none;html=1;startArrow=classicThin;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="6" target="68">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="6" value="vehiculo" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
@@ -129,7 +129,7 @@
                 <mxCell id="76" value="+SetKim" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="72">
                     <mxGeometry y="86" width="160" height="26" as="geometry"/>
                 </mxCell>
-                <mxCell id="81" style="edgeStyle=none;html=1;exitX=0.992;exitY=0.936;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.923;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9" target="73">
+                <mxCell id="81" style="edgeStyle=none;html=1;exitX=0.992;exitY=0.936;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.923;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="9" target="73">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="600" y="130" as="targetPoint"/>
                     </mxGeometry>
